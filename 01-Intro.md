@@ -93,11 +93,7 @@ Review the syllabus.
   * Authenticate with your husky.neu.edu email
   * Colab and jupyter are for prototyping and in-class exercises, but NOT for code submission.
   * You can share Colab notebooks, but editing is not synchronous.  You need to "save" explicitly.
-* Verify that students can access their github accounts
-  * Show how to "share" a notebook with someone else
-  * Practice with markdown and tex
-* [colab.md](./colab.md)
-* Accessing the iris dataset
+* Accessing the iris dataset from Colab
   * Look here: https://github.com/mwaskom/seaborn-data/blob/master/iris.csv
   * Use the "raw" link
   * `!curl -O "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv"`
@@ -105,8 +101,8 @@ Review the syllabus.
 ## Command line...really?
 
 * The following excerpts come from [this Nature article](../resources/nature_observable.pdf)
-  * A 2019 study found that just 24% of 863,878 publicly available Jupyter notebooks on GitHub could be successfully re-executed, and only 4% produced the same results.
-  * Notebooks are messy. You write stuff, keep old crusty code behind, and it's hard to kind of figure out which cells to execute in the right order because you're trying different things.
+  * "A 2019 study found that just 24% of 863,878 publicly available Jupyter notebooks on GitHub could be successfully re-executed, and only 4% produced the same results."
+  * "Notebooks are messy. You write stuff, keep old crusty code behind, and it's hard to kind of figure out which cells to execute in the right order because you're trying different things.?
 * For these and other reasons...
   * Colab for prototyping & class interactions
   * GitHub for assignments & projects
