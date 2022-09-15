@@ -91,7 +91,15 @@ Sections that may be useful for the wage-data analysis
 
 ## In-class exercise
 
-Wage dataset
+Tidy Wage dataset
 
 * [wage.md](wage.md)
 * Reproduce the three graphs in Figure 1.1 of ISLR2
+* [pandas](pandas.md)
+* [numpy](numpy.md)
+
+## In-class exercise
+
+git and github
+
+* [git.md](git.md)

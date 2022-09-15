@@ -28,11 +28,14 @@ Recreate Figure 1.1 of ISLR2, which visualizes the Wage dataset.
 5. Plot with pandas
 6. Reproduce the scatterplots in Figure 1.1 of ISLR2
 7. Customize the plot -- add a title
-8. Deal with missing values (before we create boxplots)
-9. Reproduce the boxplots in Figure 1.1 of ISLR2
-10. Debug the VisibleDeprecationWarning
+8. Reproduce the boxplots in Figure 1.1 of ISLR2
+9. Debug the VisibleDeprecationWarning
+  * STOPPED HERE (on day 1) (got the warning, but didn't debug it)
+10. Deal with missing values
 11. Customize the axis tick labels
 12. Create a new column with `.apply()` -- transforming a dataframe
 13. Revisit the scatterplot by year -- boxplots are more informative
 14. Introducing seaborn
 15. Customizing seaborn
+  * [pandas.md](pandas.md)
+  * [numpy.md](numpy.md)
