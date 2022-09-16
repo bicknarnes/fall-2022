@@ -4,6 +4,7 @@
 * [02-pandas.ipynb](notebooks/02-pandas.ipynb)
   * Debugging the deprecation warning that we encountered with the Wage boxplots
 * [03.08 aggregation and grouping](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
+* [BUG: VisibleDeprecationWarning](https://github.com/matplotlib/matplotlib/issues/16353)
 
 ## planets
 
