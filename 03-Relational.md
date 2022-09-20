@@ -1,6 +1,8 @@
 
 # 03-relational
 
+* [colab notebook](https://colab.research.google.com/drive/1NSglk8LLaAgJJEB6bW2uZvR6IZPkgeKj?usp=sharing)
+
 ### Goals
 
 * Reproducibility & github submission format
@@ -25,7 +27,7 @@
 Review github classroom and submission workflow
 
 * [git-intro](https://github.com/ds5110/git-intro)
-* [git.md](https://github.com/ds5110/git-intro/blob/main/git.md)
+* [git.md](https://github.com/ds5110/git-intro/blob/main/git.md) (in the repo)
 
 ### SQL and pandas
 
