@@ -1,7 +1,8 @@
 
 # 03-relational
 
-* [colab notebook](https://colab.research.google.com/drive/1NSglk8LLaAgJJEB6bW2uZvR6IZPkgeKj?usp=sharing)
+* [03-Relational](https://colab.research.google.com/drive/1NSglk8LLaAgJJEB6bW2uZvR6IZPkgeKj?usp=sharing) -- colab noteboook
+* [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG?usp=sharing)
 
 ### Goals
 
@@ -58,4 +59,8 @@ Review github classroom and submission workflow
 
 ### Exercises
 
-[sqlite3](sqlite3.md)
+[sqlite3](sqlite3)
+
+### Exercises
+
+[flights.md](flights.md)
