@@ -57,6 +57,10 @@ Review github classroom and submission workflow
 
 [03-SQLite-starter.ipynb](notebooks/03-SQLite-starter.ipynb)
 
+### Projects
+
+[projects.md](projects.md)
+
 ### Exercises
 
 [sqlite3](sqlite3)
