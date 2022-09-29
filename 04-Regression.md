@@ -95,6 +95,6 @@ ISLR2 -- Chapter 4: Classification (read the sections listed below)
 
 * Investigate bias-variance tradeoff based on VanderPlas: [05.03-Hyperparameters and model validation](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb)
 * Implement polynomial regression with simulated datasets
-* Revisit (with scikit-learn) the topics in Chapter 2 of ISLR2 with scikit-learn
+* Revisit (with scikit-learn) the topics in Chapter 2 of ISLR2
 
 [bias-regression.md](bias-regression.md)
