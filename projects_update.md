@@ -14,7 +14,7 @@
 * Stakeholder -- Conservation Law Foundation
 * Data -- http://github.com/ds5110/stinky2
 * Story -- there are two of them
-  * Data Viz (CS 7290) -- https://ds5110.github.io/stinky2 map needs updating (Sean Mahoney will visit to discuss)
+  * Data Viz (CS 7290) -- https://ds5110.github.io/stinky2 map needs updating
   * Data Sci (DS 5110) -- need a smell-reports model (e.g., West End wind effects w/GLM see ISLR2, Section 4.6.2)
 
 ## Bioscience map of Maine
