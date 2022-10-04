@@ -1,6 +1,10 @@
 
 # 05-Classification
 
+## Gapminder
+
+* Review notebooks -- mention reproducibility (no jupyter notebooks) and my workflow
+
 ## Notebooks
 
 * [05-classification.ipynb](https://colab.research.google.com/drive/1q6eLG5cE8WoXcBBEFnekErU62W8kbCzU?usp=sharing)

@@ -1,6 +1,14 @@
 
 # Project opportunities -- Fall 2022
 
+## Computer vision
+
+* Stakeholder: Northeastern's [Augmented Cognition Lab](https://web.northeastern.edu/ostadabbas/)
+* Data: facial landmark coordinates from 300-W (adults) and InfAnFace (infants) datasets
+  * Reference: [InfAnFace paper, Wan et al, ](https://arxiv.org/abs/2110.08935) (2022) -- arxiv.org
+  * InFanFace data and code: https://github.com/ostadabbas/Infant-Facial-Landmark-Detection-and-Tracking)
+* Story/Goal: Use a simple ML model (e.g. regression tree) to distinguish adult & infant faces
+
 ## Stinky2
 
 * Stakeholder -- Conservation Law Foundation
