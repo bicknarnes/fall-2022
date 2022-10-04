@@ -3,7 +3,12 @@
 
 ## Gapminder
 
-* Review notebooks -- mention reproducibility (no jupyter notebooks) and my workflow
+* Review notebooks -- reproducibility (no jupyter notebooks) and my workflow
+* Generic guidance...
+  * Organize your repo so that your major results are presented in the README.md
+  * Provide instructions for reproducing those results
+  * Use one file with python code for each question and import reused code when appropriate (new)
+  * No jupyter notebooks! (implicit)
 
 ## Notebooks
 
@@ -13,6 +18,11 @@
 ## Projects (update)
 
 * [projects_update.md](projects_update.md)
+* Be ready to provide a pre-proposal with equivalent detail next week.
+
+## For Thursday...
+
+* Review reading for this week -- Naive Bayes
 
 ## bias-variance tradeoff (exercises)
 
