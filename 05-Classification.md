@@ -16,6 +16,9 @@
 
 ## Notebooks
 
+
+* [05-logreg-default-exercises.ipynb](https://colab.research.google.com/drive/1ks2RvShuGp2utTGNYFNs7Ybutq_-yR70?usp=sharing)
+* [05-iris-logreg-exercises.ipynb](https://colab.research.google.com/drive/1r_T4-xAS-ynwwC2T_R9YUdicgkdV5Ihr?usp=sharing)
 * [05-classification.ipynb](https://colab.research.google.com/drive/1q6eLG5cE8WoXcBBEFnekErU62W8kbCzU?usp=sharing)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG?usp=sharing)
 
@@ -50,13 +53,19 @@ Note reading assignment for next week (above)
 
 ## logistic regression with the default dataset
 
+Topics
+
+* 1-D logistic regression vs least-squares
+* Reproduces analysis for credit-card default dataset in ISLR2, Section 4.5
+* Introduces one-hot encoding
 * [05-logreg-default-exercises.ipynb](https://colab.research.google.com/drive/1ks2RvShuGp2utTGNYFNs7Ybutq_-yR70?usp=sharing)
-* [logreg-default.md](05-logreg.default.md)
 
 ## logistic regression with the iris dataset
 
+* relating cost functions -- least-squares regression and maximum likelihood
+* multinomial logistic regression
+* decision boundarie and confusion matrix
 * [05-iris-logreg-exercises.ipynb](https://colab.research.google.com/drive/1r_T4-xAS-ynwwC2T_R9YUdicgkdV5Ihr?usp=sharing)
-* [iris-logreg.md](05-logreg.default.md)
 
 ## naive Bayes
 
