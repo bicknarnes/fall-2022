@@ -33,5 +33,5 @@
   * Validation curves (based on holdout sets -- since we don't know truth -- to determine the best model)
   * Learning curves (to determine the right number of samples)
 * [06-validation-curves.ipynb](https://colab.research.google.com/drive/18FU3wLaqqDssxz7768dUil-g1bsLTNSk?usp=sharing)
-* Exercises: Reproduce the qualitative features in Figure 5.6 of ISLR2 (204)
+* Exercises: Reproduce the qualitative features in Figure 5.6 of ISLR2 (p204)
   * And related Figures 2.9 (p31), 2.10 (p33) & 2.11 (p34) of ISLR2
