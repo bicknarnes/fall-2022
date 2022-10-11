@@ -3,7 +3,7 @@
 
 ## Projects
 
-* [./projects/projects.md](./projects/projects.md)
+* [projects_update.md](projects_update.md)
 
 ## hw-flights
 
