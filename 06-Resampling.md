@@ -1,6 +1,12 @@
 
 # 06 -- Resampling
 
+## notebooks
+
+* [05-iris-logreg-exercises.ipynb](https://colab.research.google.com/drive/1r_T4-xAS-ynwwC2T_R9YUdicgkdV5Ihr?usp=sharing)
+* [06-validation-curves-exercises.ipynb](https://colab.research.google.com/drive/18FU3wLaqqDssxz7768dUil-g1bsLTNSk?usp=sharing)
+* [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG?usp=sharing)
+
 ## Projects
 
 * [projects_update.md](projects_update.md)
@@ -32,6 +38,6 @@
   * Holdout sets
   * Validation curves (based on holdout sets -- since we don't know truth -- to determine the best model)
   * Learning curves (to determine the right number of samples)
-* [06-validation-curves.ipynb](https://colab.research.google.com/drive/18FU3wLaqqDssxz7768dUil-g1bsLTNSk?usp=sharing)
+* [06-validation-curves-exercises.ipynb](https://colab.research.google.com/drive/18FU3wLaqqDssxz7768dUil-g1bsLTNSk?usp=sharing)
 * Exercises: Reproduce the qualitative features in Figure 5.6 of ISLR2 (p204)
   * And related Figures 2.9 (p31), 2.10 (p33) & 2.11 (p34) of ISLR2
