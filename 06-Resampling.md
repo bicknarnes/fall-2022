@@ -26,7 +26,7 @@
 * [naive_bayes.md](naive_bayes.md)
 * [poll.md](poll.md)
 
-## Validation curves
+## validation curves
 
 * [05.03-Hyperparameters-and-Model-Validation.ipynb](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) -- VanderPlas
   * Holdout sets
