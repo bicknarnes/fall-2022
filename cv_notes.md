@@ -1,6 +1,9 @@
 # cross-validation notes
 
-From Chapter 6 of ISLR2
+* [05.03-Hyperparameter-And-Model-Validation](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb)
+* [3.1 Cross Validation](https://scikit-learn.org/stable/modules/cross_validation.html) -- scikit-learn.org
+
+From Chapter 6 of ISLR2...
 
 * We us resampling methods to investigate the bias-variance tradeoff
   * In reality, we don't know truth

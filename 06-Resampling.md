@@ -38,8 +38,8 @@ STOPPED HERE ON TUESDAY
 ##  cross validation
 
 * [cv_notes.md]
-* Figure 5.2 (p200) -- validation (hold-out) set
-* Figure 5.3 (p202) -- LOOCV and 10-fold cross validation
+* Figure 5.2 (p200) ISLR2 -- validation (hold-out) set
+* Figure 5.3 (p202) ISLR2 -- LOOCV and 10-fold cross validation
 * [06-cross-validation-exercises.ipynb](https://colab.research.google.com/drive/1IcW50M2yDkgDSDTooeYuLY7BQkzbm2Y1?usp=sharing)
 
 ## validation curves
