@@ -4,6 +4,7 @@
 ## notebooks
 
 * [05-iris-logreg-exercises.ipynb](https://colab.research.google.com/drive/1r_T4-xAS-ynwwC2T_R9YUdicgkdV5Ihr?usp=sharing)
+* [06-cross-validation-exercises.ipynb](https://colab.research.google.com/drive/1IcW50M2yDkgDSDTooeYuLY7BQkzbm2Y1?usp=sharing)
 * [06-validation-curves-exercises.ipynb](https://colab.research.google.com/drive/18FU3wLaqqDssxz7768dUil-g1bsLTNSk?usp=sharing)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG?usp=sharing)
 
@@ -14,7 +15,7 @@
 ## hw-flights
 
 * folks who did database queries for Q2 got a similar result -- but different from the pandas/CSV solution
-  * major award to the person who figures it out what's going on
+  * major award to the person who figures out what's going on
 * several folks used groupby without any averaging operation 
 * don't submit jupyter notebooks in github-classroom!
 
@@ -31,6 +32,15 @@
 
 * [naive_bayes.md](naive_bayes.md)
 * [poll.md](poll.md)
+
+STOPPED HERE ON TUESDAY
+
+##  cross validation
+
+* [cv_notes.md]
+* Figure 5.2 (p200) -- validation (hold-out) set
+* Figure 5.3 (p202) -- LOOCV and 10-fold cross validation
+* [06-cross-validation-exercises.ipynb](https://colab.research.google.com/drive/1IcW50M2yDkgDSDTooeYuLY7BQkzbm2Y1?usp=sharing)
 
 ## validation curves
 
