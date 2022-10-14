@@ -44,8 +44,6 @@ ISLR2 -- Chapter 6.1-6.4: Model selection
 * [naive_bayes.md](naive_bayes.md)
 * [poll.md](poll.md)
 
-STOPPED HERE ON TUESDAY
-
 ##  cross validation
 
 * [cv_notes.md](cv_notes.md)
