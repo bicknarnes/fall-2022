@@ -12,6 +12,11 @@
 * [07-iris-pipeline-exercises.pynb](https://colab.research.google.com/drive/1gkpExUJjHfmuNDaRkUqznZ2GxaZxCHJT?usp=sharing)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG?usp=sharing)
 
+## Pre-proposals
+
+* See comments in Canvas
+* Next step: [feasibility](feasibility.md) -- due next week
+
 ## In-class exercise: Curse of dimensionality
 
 * High dimensional models incur all sorts of problems
