@@ -8,7 +8,7 @@
 ## Notebooks
 
 * [07-curse-of-dimensionality-exercise.ipynb](https://colab.research.google.com/drive/1nwULWhFqm72fIRBULSapPsqGW3Z6niXk?usp=sharing)
-* [07-curse-demo-exercise.ipynb](https://colab.research.google.com/drive/1nwULWhFqm72fIRBULSapPsqGW3Z6niXk?usp=sharing)
+* [07-curse-demo-exercises.ipynb](https://colab.research.google.com/drive/1et-iTTFBAEtuaouxQkKhLVu8Q9hqG6hK?usp=sharing)
 * [07-iris-pipeline-exercises.pynb](https://colab.research.google.com/drive/1gkpExUJjHfmuNDaRkUqznZ2GxaZxCHJT?usp=sharing)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG?usp=sharing)
 
@@ -22,8 +22,11 @@
 * High dimensional models incur all sorts of problems
   * KNN illustrates the issues
   * Recall KNN estimate of Bayes decision boundary in Figure 2.14 (p40)
+* [exercises.md](exercises.md)
 
-## In-class exercise: Curse demo
+## In-class exercises: Curse demo
+
+* [exercises.md](exercises.md)
 
 ## Metrics for choosing the optimal model
 
@@ -49,6 +52,10 @@
     * BIC places a larger penalty on the number of predictors than AIC when k > 7
   * [Adjusted R^2](https://en.wikipedia.org/wiki/Coefficient_of_determination#Adjusted_R2)
     * Another metric -- wikipedia def'n uses residual & total "degrees of freedom"; ISLR2 uses (n-d-1) & (n-1)
+
+## In-class exercises: Iris pipeline
+
+* [exercises.md](exercises.md)
 
 ## Dimensionality reduction
 
