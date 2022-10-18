@@ -1,6 +1,17 @@
 
 # 06 -- Resampling
 
+## Reading (for next week)
+
+ISLR2 -- Chapter 6.1-6.4: Model selection
+
+* There's a fair amount of reading. Try to get the main concepts and don't get caught up in the math.
+* You should try to understand the main points of subset selection, shrinkage methods.
+* Skim the section on Cp, AIC, BIC, and Adjusted R2.
+* Lasso and Ridge: How do they work? Why might you want to use one versus the other?
+* If you're not familiar principal components, then read 6.3 for an introduction to the concepts.
+* High dimensional situations. What does it mean to be high-dimensional? What are some problems that arise? 
+
 ## notebooks
 
 * [05-iris-logreg-exercises.ipynb](https://colab.research.google.com/drive/1r_T4-xAS-ynwwC2T_R9YUdicgkdV5Ihr?usp=sharing)
@@ -32,8 +43,6 @@
 
 * [naive_bayes.md](naive_bayes.md)
 * [poll.md](poll.md)
-
-STOPPED HERE ON TUESDAY
 
 ##  cross validation
 
