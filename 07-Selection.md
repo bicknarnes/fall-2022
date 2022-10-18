@@ -11,6 +11,7 @@
 * [07-curse-demo-exercises.ipynb](https://colab.research.google.com/drive/1et-iTTFBAEtuaouxQkKhLVu8Q9hqG6hK?usp=sharing)
 * [07-iris-pipeline-exercises.pynb](https://colab.research.google.com/drive/1gkpExUJjHfmuNDaRkUqznZ2GxaZxCHJT?usp=sharing)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG?usp=sharing)
+* [poll everywhere](https://pollev.com/pbogden)
 
 ## Pre-proposals
 
