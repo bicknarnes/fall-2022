@@ -17,6 +17,7 @@
 
 * See comments in Canvas
 * Next step: [feasibility](feasibility.md) -- due next week
+* [Computer-vision position announcement](cv_position.md)
 
 ## In-class exercise: Curse of dimensionality
 
