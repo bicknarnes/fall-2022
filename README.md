@@ -1,6 +1,7 @@
 
 # DS 5110 -- Fall 2022
 
+* [07-Selection](07-Selection.md) -- 18 & 20 Oct
 * [06-Resampling](06-Resampling.md) -- 11 & 13 Oct
 * [05-Classification](05-Classification.md) -- 4 & 6 Oct
 * [04-Regression](04-Regression.md) -- 27 & 29 Sep
