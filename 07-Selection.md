@@ -11,7 +11,6 @@
 * [07-curse-demo-exercises.ipynb](https://colab.research.google.com/drive/1et-iTTFBAEtuaouxQkKhLVu8Q9hqG6hK?usp=sharing)
 * [07-iris-pipeline-exercises.ipynb](https://colab.research.google.com/drive/1gkpExUJjHfmuNDaRkUqznZ2GxaZxCHJT?usp=sharing)
 * [07-logreg-iris-regularization.ipynb](https://colab.research.google.com/drive/12Vs332xNtq7s2aIZvcof221uVo1G6DQL?usp=sharing)
-* [07-logreg-iris-regularization.ipynb](https://colab.research.google.com/drive/12Vs332xNtq7s2aIZvcof221uVo1G6DQL?usp=sharing)
 * [07-principal components](https://colab.research.google.com/drive/1KPXIhCoPorVjtXIYLGt7m-ZAcHM8FK7X?usp=sharing)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG?usp=sharing)
 * [poll everywhere](https://pollev.com/pbogden)
