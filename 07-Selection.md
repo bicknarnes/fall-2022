@@ -9,7 +9,10 @@
 
 * [07-curse-of-dimensionality-exercise.ipynb](https://colab.research.google.com/drive/1nwULWhFqm72fIRBULSapPsqGW3Z6niXk?usp=sharing)
 * [07-curse-demo-exercises.ipynb](https://colab.research.google.com/drive/1et-iTTFBAEtuaouxQkKhLVu8Q9hqG6hK?usp=sharing)
-* [07-iris-pipeline-exercises.pynb](https://colab.research.google.com/drive/1gkpExUJjHfmuNDaRkUqznZ2GxaZxCHJT?usp=sharing)
+* [07-iris-pipeline-exercises.ipynb](https://colab.research.google.com/drive/1gkpExUJjHfmuNDaRkUqznZ2GxaZxCHJT?usp=sharing)
+* [07-logreg-iris-regularization.ipynb](https://colab.research.google.com/drive/12Vs332xNtq7s2aIZvcof221uVo1G6DQL?usp=sharing)
+* [07-logreg-iris-regularization.ipynb](https://colab.research.google.com/drive/12Vs332xNtq7s2aIZvcof221uVo1G6DQL?usp=sharing)
+* [07-principal components](https://colab.research.google.com/drive/1KPXIhCoPorVjtXIYLGt7m-ZAcHM8FK7X?usp=sharing)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG?usp=sharing)
 * [poll everywhere](https://pollev.com/pbogden)
 
@@ -17,6 +20,7 @@
 
 * See comments in Canvas
 * Next step: [feasibility](feasibility.md) -- due next week
+* [Computer-vision position announcement](cv_position.md)
 
 ## In-class exercise: Curse of dimensionality
 
@@ -58,6 +62,12 @@
 
 * [exercises.md](exercises.md)
 
+## In-class exercises: Iris regularization
+
+* [exercises.md](exercises.md)
+
 ## Dimensionality reduction
 
 * [07-principal-components.ipynb](https://colab.research.google.com/drive/1Xc5SNhD9NY-4IGE-mGdPu8mdpPTxHIIf?usp=sharing)
+* Can be put into a pipeline, just as we saw with the scikit-learn scandard scaler
+* When we do so, we get PCR (Principal Component Regression) as discussion in Section 6.3.1 in ISLR2

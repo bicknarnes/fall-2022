@@ -1,7 +1,7 @@
 
 # feasibility
 
-* The first project-related assignment is a viability assessment.
+* The first project-related assignment is a feasibility assessment.
 * Goals:
   * Create a github repo that demonstrates access to project data.
   * Perform some preliminary exploratory data analysis (EDA) and include the code.
