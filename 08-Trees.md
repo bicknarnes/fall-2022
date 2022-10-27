@@ -13,6 +13,7 @@
   * Read for the concepts related to "Classification with Non-Linear Decision Boundaries"
   * After skimming 9.3.1 the first time, you may want to refer back to other parts of Chapter 9
   * We'll be applying the concepts in class and in homework assignments.
+  * Don't miss Section 9.5 -- if nothing else, skim it!
 
 ## Notebooks
 
