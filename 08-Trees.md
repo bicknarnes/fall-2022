@@ -5,6 +5,7 @@
 * decision tree basics
 * bagging and random forests
 
+<<<<<<< HEAD
 ## Reading
 
 * ISLR2 -- Chapter 8, Section 8.1: The Basics of Decision Trees (for Thursday)
@@ -13,14 +14,24 @@
   * Read for the concepts related to "Classification with Non-Linear Decision Boundaries"
   * After skimming 9.3.1 the first time, you may want to refer back to other parts of Chapter 9
   * We'll be applying the concepts in class and in homework assignments.
+=======
+## Reading (for Thursday)
+
+* ISLR2 -- Chapter 8, Section 8.1: The Basics of Decision Trees
+>>>>>>> 62226e97f3af352dc5f1bcdecf189c3f9841af06
 
 ## Notebooks
 
 * [07-logreg-iris-regularization.ipynb](https://colab.research.google.com/drive/12Vs332xNtq7s2aIZvcof221uVo1G6DQL)
+<<<<<<< HEAD
   * Notebook has been updated
 * [07-principal components](https://colab.research.google.com/drive/1KPXIhCoPorVjtXIYLGt7m-ZAcHM8FK7X)
 * [08-hitters-tree-exercises](https://colab.research.google.com/drive/1_zmY7F32MUysHbuUHDzppPvyHpVNZbtL?usp=sharing)
 * [08-hitters-pcr-exercises](https://colab.research.google.com/drive/1qDeQP3Jhdarwm8UrngK7SqScAXLgXgMV?usp=sharing)
+=======
+* [07-principal components](https://colab.research.google.com/drive/1KPXIhCoPorVjtXIYLGt7m-ZAcHM8FK7X)
+* [08-hitters-eda-exercises](https://colab.research.google.com/drive/1WTfGzLTF6PfWS1GIgslwHfwQZvPp_uDJ)
+>>>>>>> 62226e97f3af352dc5f1bcdecf189c3f9841af06
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG)
 * [poll everywhere](https://pollev.com/pbogden)
 
@@ -34,10 +45,18 @@
 * Can be put into a pipeline, just as we saw with the scikit-learn scandard scaler
 * When we do so, we get PCR (Principal Component Regression) as discussion in Section 6.3.1 in ISLR2
 
+<<<<<<< HEAD
 ## In-class exercises: Hitters Tree
 
 * [exercises.md](exercises.md)
 
 ## In-class exercises: Hitters PCR
+=======
+## In-class exercises: Hitters PCR
+
+* [exercises.md](exercises.md)
+
+## In-class exercises: Hitters Tree
+>>>>>>> 62226e97f3af352dc5f1bcdecf189c3f9841af06
 
 * [exercises.md](exercises.md)
