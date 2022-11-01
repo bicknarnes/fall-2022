@@ -1,5 +1,5 @@
 
-# 07-Trees
+# 08-Trees
 
 * model selection -- regularization, PCA and PCR
 * decision tree basics
