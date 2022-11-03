@@ -4,7 +4,8 @@
 Project guidance for remainder of semester.  Each milestone is worth 10 points...
 
 * project check-in -- due: before Thanksgiving
-  * half-hour Teams meeting with instructor to occur sometime before Thanksgiving
+  * half-hour Teams meeting (or in person) with instructor to occur sometime before Thanksgiving
+    * you can have as many check-ins as you want, but minimum of one before Turkey Day
   * demonstrated progress on the project goals presented with a walk-through of the project repo
   * should include a submission in canvas with the url of a "checkin" branch in the project repo
   * the repo/branch format should follow the same general guidelines as assignments

@@ -42,6 +42,12 @@
 ## In-class exercises: Hitters Forest
 
 * [08-hitters-forest-exercises](https://colab.research.google.com/drive/1-e8zj1w2cIkoF7pdYeA4QYRvNyU33z-S)
+* Trees are high variance (small changes in the data can cause large changes in the final estimate)
+* Ensemble methods combining many trees (weak learners) to greatly improve tree acccuracy
+* Bagging (bootstrap aggregating) reduces variance by averaging models trained on bootstrapped training datasets
+* Random forests improve on bagging by tweaking the algorithm to "decorrelate" the trees
+* Other ensemble-method algorithms grow trees sequentially modifying the data long the way by fitting residuals
+* Each approach has an associated set of tuning parameters (hyperparameters).
 
 ## In-class exercises: Labeled Faces in the Wild SVC
 
