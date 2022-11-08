@@ -1,6 +1,7 @@
 
 # DS 5110 -- Fall 2022
 
+* [10-Unsupervised](10-Unsupervised.md) -- 8 & 10 Nov
 * [09-SVMs](09-SVMs.md) -- 1 & 3 Nov
 * [08-Trees](08-Trees.md) -- 25 & 27 Oct
 * [07-Selection](07-Selection.md) -- 18 & 20 Oct
