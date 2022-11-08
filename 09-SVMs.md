@@ -51,4 +51,3 @@
 
 ## In-class exercises: Labeled Faces in the Wild SVC
 
-* [09-lfw-svc-exercises](https://colab.research.google.com/drive/17WafaXFvHSgyGOws2FvhdFn6O4LEmXqP)
