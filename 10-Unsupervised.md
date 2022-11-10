@@ -8,7 +8,9 @@
 ## Notebooks
 
 * [07-principal-components-exercises](https://colab.research.google.com/drive/1KPXIhCoPorVjtXIYLGt7m-ZAcHM8FK7X)
-* [07-lfw-svm-exercises](https://colab.research.google.com/drive/12ihADKzQ3wAD5iRH9S0aBcLb4cahLsVT)
+* [09-lfw-svm-exercises](https://colab.research.google.com/drive/12ihADKzQ3wAD5iRH9S0aBcLb4cahLsVT)
+* [10-kmeans-digits-exercises](https://colab.research.google.com/drive/1WVESQgYXcaa8MTfedzionJk2j8OpKOBP)
+* [10-learning-faces-exercises](https://colab.research.google.com/drive/1SiToIlQDKaSEqOqT1Brb4SvtBv00x3Y0)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG)
 * [poll everywhere](https://pollev.com/pbogden) 
 
@@ -87,7 +89,14 @@
   * [silhouette coefficient](https://scikit-learn.org/stable/modules/clustering.html#silhouette-coefficient) defined
   * Digits dataset -- does reasonably well (0.79) without labels!
     * Does even better if you pre-process with t-SNE!
-* [k-means](k-means) exercises
+
+## K-means
+
+* [10-kmeans-digits-exercises](https://colab.research.google.com/drive/1WVESQgYXcaa8MTfedzionJk2j8OpKOBP)
+
+## learning curves
+
+* [10-learning-faces-exercises](https://colab.research.google.com/drive/1SiToIlQDKaSEqOqT1Brb4SvtBv00x3Y0)
 
 ## Generative Models
 
