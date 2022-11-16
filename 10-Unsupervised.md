@@ -16,7 +16,10 @@
 
 ## Reading (for next week)
 
-* TBD
+Text analysis next week, so read and try out the text-analysis sections in the following VanderPlas notebooks...
+
+* [05.05-Feature-Engineering](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks)
+* [05.05-Naive-Bayes](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb)
 
 ## diamonds
 
