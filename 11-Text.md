@@ -11,6 +11,8 @@
 * [10-learning-faces-exercises](https://colab.research.google.com/drive/1SiToIlQDKaSEqOqT1Brb4SvtBv00x3Y0)
 * [10-learning-faces-exercises2](https://colab.research.google.com/drive/1Wy3-EAJSp6PAr5pEt98F6GHGkgjoncQ2)
 * [11-austen-nlp-exercises](https://colab.research.google.com/drive/15zGJswgIkO5Ih4on4_L0wM9yLp2TOqKn)
+* [11-newsgroups-logreg-exercises.ipynb](https://colab.research.google.com/drive/1hIciMMucHHaH_VHmD7j3wMo5Td2ySXmD)
+* [11-newsgroups-lsa-exercises.ipynb](https://colab.research.google.com/drive/1Heqw1rQ6eph8DJgTtAq8HmxspQ1sJMpo)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG)
 * [poll everywhere](https://pollev.com/pbogden) 
 
@@ -88,4 +90,14 @@
   * [AI Winter](https://en.wikipedia.org/wiki/AI_winter)
   * [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
-## austen
+## Jane Austen
+
+* [11-austen-nlp-exercises](https://colab.research.google.com/drive/15zGJswgIkO5Ih4on4_L0wM9yLp2TOqKn)
+
+## Newsgroups -- logreg
+
+* [11-newsgroups-logreg-exercises.ipynb](https://colab.research.google.com/drive/1hIciMMucHHaH_VHmD7j3wMo5Td2ySXmD)
+
+## Newsgroups -- LSA
+
+* [11-newsgroups-lsa-exercises.ipynb](https://colab.research.google.com/drive/1Heqw1rQ6eph8DJgTtAq8HmxspQ1sJMpo)
