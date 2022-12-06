@@ -1,4 +1,4 @@
-12-Deep
+# 12-Deep
 
 * [project submission](project_submission.md) guidance
 * digits assignment
