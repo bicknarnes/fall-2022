@@ -5,7 +5,7 @@ General guidelines
 
 ## Prototype
 
-* Submit the URL of a "prototype" branch of the project repo in Canvas by 7 Dec.
+* Submit the URL of a "prototype" branch of the project repo in Canvas by December 7th.
   * The repo should include: (1) technical documentation and (2) a desciption of results.
 * Technical Documentation
   * README.md should consistent with general guidelines of a homework assignment.
